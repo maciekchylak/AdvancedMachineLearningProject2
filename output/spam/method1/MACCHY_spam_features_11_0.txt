@@ -1,0 +1,11 @@
+call
+claim
+contact
+free
+guarantee
+reply
+service
+stop
+tone
+txt
+win

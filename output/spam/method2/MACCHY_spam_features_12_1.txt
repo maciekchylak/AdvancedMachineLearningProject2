@@ -1,0 +1,12 @@
+award
+call
+claim
+nokia
+pobox
+prize
+ringtone
+service
+tone
+txt
+urgent
+video

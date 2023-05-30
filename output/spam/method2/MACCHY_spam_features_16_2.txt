@@ -1,0 +1,16 @@
+award
+call
+claim
+contact
+nokia
+pmin
+pobox
+prize
+service
+stop
+text
+tone
+txt
+urgent
+video
+vouchers

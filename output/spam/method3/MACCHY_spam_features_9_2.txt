@@ -1,0 +1,9 @@
+call
+claim
+contact
+nokia
+pobox
+tone
+txt
+urgent
+vouchers

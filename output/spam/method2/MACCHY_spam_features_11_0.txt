@@ -1,0 +1,11 @@
+award
+call
+claim
+nokia
+pmin
+prize
+ringtone
+service
+tone
+txt
+urgent

@@ -1,0 +1,15 @@
+award
+call
+cash
+claim
+contact
+free
+guarantee
+pmin
+reply
+service
+stop
+tone
+txt
+video
+win
