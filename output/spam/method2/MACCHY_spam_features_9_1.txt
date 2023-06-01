@@ -1,9 +1,0 @@
-award
-claim
-pobox
-prize
-ringtone
-service
-tone
-txt
-video

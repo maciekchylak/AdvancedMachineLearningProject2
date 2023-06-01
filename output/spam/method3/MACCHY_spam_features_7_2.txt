@@ -1,7 +1,0 @@
-claim
-contact
-nokia
-pobox
-ringtone
-tone
-txt

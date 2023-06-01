@@ -1,8 +1,0 @@
-call
-claim
-free
-service
-stop
-tone
-txt
-win

@@ -1,5 +1,0 @@
-call
-claim
-free
-stop
-txt

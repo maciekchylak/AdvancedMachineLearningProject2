@@ -1,6 +1,0 @@
-award
-claim
-pobox
-prize
-tone
-txt

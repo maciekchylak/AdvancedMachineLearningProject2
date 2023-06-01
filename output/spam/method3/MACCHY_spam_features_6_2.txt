@@ -1,6 +1,0 @@
-claim
-pmin
-ringtone
-tone
-txt
-vouchers

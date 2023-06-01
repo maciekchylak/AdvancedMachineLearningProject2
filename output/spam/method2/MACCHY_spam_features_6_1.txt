@@ -1,6 +1,0 @@
-claim
-pmin
-prize
-ringtone
-tone
-video

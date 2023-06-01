@@ -1,9 +1,0 @@
-call
-claim
-contact
-draw
-nokia
-ringtone
-service
-tone
-txt

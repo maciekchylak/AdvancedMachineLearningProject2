@@ -1,7 +1,0 @@
-award
-claim
-pmin
-prize
-ringtone
-tone
-txt
